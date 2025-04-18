@@ -4,4 +4,4 @@ clone
 add
 commit
 push
-pull
+new pull 
