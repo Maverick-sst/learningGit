@@ -1,7 +1,10 @@
 # learningGit
 <comands>
-clone
-add
+clone  ---> git clone url ---> clones a repository in your local system
+
+add----> 
 commit
-push
-new pull 
+push pull 
+git ls-files -----> to view all files
+
+## this is used for subheading
